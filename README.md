@@ -1,2 +1,1 @@
-# Projeto Colaborativo
-Texto alterado pela Ana
+# Projeto Colaborativo - Versão 1.0 (Ana)
